@@ -1,0 +1,259 @@
+{
+  "vouchers": [
+    {
+      "id": 108040,
+      "code": "fca97147c39bc89e",
+      "price": 3000,
+      "redeemedDate": null,
+      "expiryDate": "2024-10-09T15:59:00.000Z",
+      "status": "Expired",
+      "employeeId": 7,
+      "voucherPoolId": 112,
+      "createdAt": "2024-10-01T08:03:39.594Z",
+      "updatedAt": "2024-10-09T16:01:00.763Z",
+      "deletedAt": null,
+      "revokeReason": null,
+      "cashierId": null,
+      "revokedAt": null,
+      "voucherPool": {
+        "name": "Dinner"
+      },
+      "employee": {
+        "firstname": "Milo",
+        "surname": "Ritchie",
+        "email": "Milo.Ritchie@yahoo.com"
+      },
+      "cashier": null
+    },
+    {
+      "id": 108041,
+      "code": "e5ed0c6514ce28d9",
+      "price": 3000,
+      "redeemedDate": null,
+      "expiryDate": "2024-10-09T15:59:00.000Z",
+      "status": "Expired",
+      "employeeId": 7,
+      "voucherPoolId": 112,
+      "createdAt": "2024-10-01T08:03:39.594Z",
+      "updatedAt": "2024-10-09T16:01:00.763Z",
+      "deletedAt": null,
+      "revokeReason": null,
+      "cashierId": null,
+      "revokedAt": null,
+      "voucherPool": {
+        "name": "Dinner"
+      },
+      "employee": {
+        "firstname": "Milo",
+        "surname": "Ritchie",
+        "email": "Milo.Ritchie@yahoo.com"
+      },
+      "cashier": null
+    },
+    {
+      "id": 108042,
+      "code": "c49e525bb4da1d6b",
+      "price": 3000,
+      "redeemedDate": null,
+      "expiryDate": "2024-10-09T15:59:00.000Z",
+      "status": "Expired",
+      "employeeId": 7,
+      "voucherPoolId": 112,
+      "createdAt": "2024-10-01T08:03:39.594Z",
+      "updatedAt": "2024-10-09T16:01:00.763Z",
+      "deletedAt": null,
+      "revokeReason": null,
+      "cashierId": null,
+      "revokedAt": null,
+      "voucherPool": {
+        "name": "Dinner"
+      },
+      "employee": {
+        "firstname": "Milo",
+        "surname": "Ritchie",
+        "email": "Milo.Ritchie@yahoo.com"
+      },
+      "cashier": null
+    },
+    {
+      "id": 108043,
+      "code": "52bcc251c20bfdef",
+      "price": 3000,
+      "redeemedDate": null,
+      "expiryDate": "2024-10-09T15:59:00.000Z",
+      "status": "Expired",
+      "employeeId": 8,
+      "voucherPoolId": 112,
+      "createdAt": "2024-10-01T08:03:39.594Z",
+      "updatedAt": "2024-10-09T16:01:00.763Z",
+      "deletedAt": null,
+      "revokeReason": null,
+      "cashierId": null,
+      "revokedAt": null,
+      "voucherPool": {
+        "name": "Dinner"
+      },
+      "employee": {
+        "firstname": "Patience",
+        "surname": "Sauer",
+        "email": "Patience83@hotmail.com"
+      },
+      "cashier": null
+    },
+    {
+      "id": 108044,
+      "code": "0c6aac3b792ba0c3",
+      "price": 3000,
+      "redeemedDate": null,
+      "expiryDate": "2024-10-09T15:59:00.000Z",
+      "status": "Expired",
+      "employeeId": 8,
+      "voucherPoolId": 112,
+      "createdAt": "2024-10-01T08:03:39.594Z",
+      "updatedAt": "2024-10-09T16:01:00.763Z",
+      "deletedAt": null,
+      "revokeReason": null,
+      "cashierId": null,
+      "revokedAt": null,
+      "voucherPool": {
+        "name": "Dinner"
+      },
+      "employee": {
+        "firstname": "Patience",
+        "surname": "Sauer",
+        "email": "Patience83@hotmail.com"
+      },
+      "cashier": null
+    },
+    {
+      "id": 108045,
+      "code": "dc0eafdc9363b24e",
+      "price": 3000,
+      "redeemedDate": null,
+      "expiryDate": "2024-10-09T15:59:00.000Z",
+      "status": "Expired",
+      "employeeId": 8,
+      "voucherPoolId": 112,
+      "createdAt": "2024-10-01T08:03:39.594Z",
+      "updatedAt": "2024-10-09T16:01:00.763Z",
+      "deletedAt": null,
+      "revokeReason": null,
+      "cashierId": null,
+      "revokedAt": null,
+      "voucherPool": {
+        "name": "Dinner"
+      },
+      "employee": {
+        "firstname": "Patience",
+        "surname": "Sauer",
+        "email": "Patience83@hotmail.com"
+      },
+      "cashier": null
+    },
+    {
+      "id": 108046,
+      "code": "7a7478ed41c4be2a",
+      "price": 3000,
+      "redeemedDate": null,
+      "expiryDate": "2024-10-09T15:59:00.000Z",
+      "status": "Expired",
+      "employeeId": 7,
+      "voucherPoolId": 114,
+      "createdAt": "2024-10-01T08:06:17.303Z",
+      "updatedAt": "2024-10-09T16:01:00.763Z",
+      "deletedAt": null,
+      "revokeReason": null,
+      "cashierId": null,
+      "revokedAt": null,
+      "voucherPool": {
+        "name": "Dinner"
+      },
+      "employee": {
+        "firstname": "Milo",
+        "surname": "Ritchie",
+        "email": "Milo.Ritchie@yahoo.com"
+      },
+      "cashier": null
+    },
+    {
+      "id": 108047,
+      "code": "bed27a75d7bb6d0f",
+      "price": 3000,
+      "redeemedDate": null,
+      "expiryDate": "2024-10-09T15:59:00.000Z",
+      "status": "Expired",
+      "employeeId": 7,
+      "voucherPoolId": 114,
+      "createdAt": "2024-10-01T08:06:17.303Z",
+      "updatedAt": "2024-10-09T16:01:00.763Z",
+      "deletedAt": null,
+      "revokeReason": null,
+      "cashierId": null,
+      "revokedAt": null,
+      "voucherPool": {
+        "name": "Dinner"
+      },
+      "employee": {
+        "firstname": "Milo",
+        "surname": "Ritchie",
+        "email": "Milo.Ritchie@yahoo.com"
+      },
+      "cashier": null
+    },
+    {
+      "id": 108048,
+      "code": "3c049e6ccf2ac8bd",
+      "price": 3000,
+      "redeemedDate": null,
+      "expiryDate": "2024-10-09T15:59:00.000Z",
+      "status": "Expired",
+      "employeeId": 7,
+      "voucherPoolId": 114,
+      "createdAt": "2024-10-01T08:06:17.303Z",
+      "updatedAt": "2024-10-09T16:01:00.763Z",
+      "deletedAt": null,
+      "revokeReason": null,
+      "cashierId": null,
+      "revokedAt": null,
+      "voucherPool": {
+        "name": "Dinner"
+      },
+      "employee": {
+        "firstname": "Milo",
+        "surname": "Ritchie",
+        "email": "Milo.Ritchie@yahoo.com"
+      },
+      "cashier": null
+    },
+    {
+      "id": 108049,
+      "code": "4bbb830893e497d2",
+      "price": 3000,
+      "redeemedDate": null,
+      "expiryDate": "2024-10-09T15:59:00.000Z",
+      "status": "Expired",
+      "employeeId": 8,
+      "voucherPoolId": 114,
+      "createdAt": "2024-10-01T08:06:17.303Z",
+      "updatedAt": "2024-10-09T16:01:00.763Z",
+      "deletedAt": null,
+      "revokeReason": null,
+      "cashierId": null,
+      "revokedAt": null,
+      "voucherPool": {
+        "name": "Dinner"
+      },
+      "employee": {
+        "firstname": "Patience",
+        "surname": "Sauer",
+        "email": "Patience83@hotmail.com"
+      },
+      "cashier": null
+    }
+  ],
+  "pagination": {
+    "pageNumber": 0,
+    "perPage": 200,
+    "totalCount": 26
+  }
+}
