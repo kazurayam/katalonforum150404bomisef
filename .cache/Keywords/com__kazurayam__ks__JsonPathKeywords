@@ -1,0 +1,10 @@
+{
+  "keywordFileContentHash": "68A32664C0CB21780D9D2903BB360E6A",
+  "keywordClasses": [
+    {
+      "name": "com.kazurayam.ks.JsonPathKeywords",
+      "keywordMethods": []
+    }
+  ],
+  "javadocParsed": true
+}

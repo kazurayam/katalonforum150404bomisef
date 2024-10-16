@@ -1,0 +1,10 @@
+{
+  "keywordFileContentHash": "4410E4D1F3F27A2B3DC83FF0B487387C",
+  "keywordClasses": [
+    {
+      "name": "com.foo.VouchersWrapper",
+      "keywordMethods": []
+    }
+  ],
+  "javadocParsed": true
+}
