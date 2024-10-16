@@ -7,8 +7,8 @@ This is a small Katalon Studio project for demonstration purpose. This project w
 
 - https://forum.katalon.com/t/is-it-possible-to-search-from-response-body-and-verify/150404
 
-This project is open-sourced. 
-You can download the zip of this project from the [Releases](https://github.com/kazurayam/katalonforum150404bomisef/releases) page, 
+This project is open-sourced.
+You can download the zip of this project from the [Releases](https://github.com/kazurayam/katalonforum150404bomisef/releases) page,
 unzip it, open it with your local Katalon Studio installation, and run it.
 
 ## Environment
@@ -312,6 +312,15 @@ The "ProcessingVouchers" results a data structure:
   "8" : [ 108043, 108044, 108045, 108049 ]
 }
 ```
+where
+
+7 is an employee id,
+
+[108040 , 108041, 108042, 108046, 108047, 108048 ] is the list of voucher ids allocated to the employee id 7.
+
+8 is another employee id,
+
+[ 108043, 108044, 108045, 108049 ] is the list of voucher ids allocated to the employee id 8.
 
 I think this is what the original poster wanted.
 
