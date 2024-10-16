@@ -5,8 +5,13 @@
    <tag></tag>
    <defaultProfile>true</defaultProfile>
    <GlobalVariableEntity>
-      <description></description>
-      <initValue>'{&quot;vouchers&quot;:[]}'</initValue>
+      <description>raw JSON text as is in the HTTP response body</description>
+      <initValue>''</initValue>
       <name>VOUCHERS</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description>employeeId as key, list of voucherIds as value</description>
+      <initValue>[:]</initValue>
+      <name>VOUCHER_ALLOCATION</name>
    </GlobalVariableEntity>
 </GlobalVariableEntities>

@@ -1,16 +1,26 @@
-#
+# katalonforum150404bomisef
 
-Here I would propose a solution to the discussion at
+date 2024/10/16
+author kazurayam
+
+This is a small Katalon Studio project for demonstration purpose. This project was developed to propose a solution to the discussion at
 
 - https://forum.katalon.com/t/is-it-possible-to-search-from-response-body-and-verify/150404
 
+This project is open-sourced. 
+You can download the zip of this project from the [Releases](https://github.com/kazurayam/katalonforum150404bomisef/releases) page, 
+unzip it, open it with your local Katalon Studio installation, and run it.
 
-## data
+## Environment
 
-- https://kazurayam.github.io/katalonforum150404bomisef/toolbook.json
+- Katalon Studio Free v9.0.0
+- macOS Sonoma 14.7
+
+## Input Data
+
 - https://kazurayam.github.io/katalonforum150404bomisef/vouchers.json
 
-## output
+## Output
 
 Run the `Test Cases/main/ProcessingVouchers`. Then you will see the following output in the console:
 
@@ -290,5 +300,33 @@ Run the `Test Cases/main/ProcessingVouchers`. Then you will see the following ou
   "8" : [ 108043, 108044, 108045, 108049 ]
 }
 2024-10-16 22:23:53.017 INFO  c.k.katalon.core.main.TestCaseExecutor   - END Test Cases/main/ProcessingVouchers
+```
+
+## My proposal
+
+The "ProcessingVouchers" results a data structure:
 
 ```
+{
+  "7" : [ 108040, 108041, 108042, 108046, 108047, 108048 ],
+  "8" : [ 108043, 108044, 108045, 108049 ]
+}
+```
+
+I think this is what the original poster wanted.
+
+## What I developed
+
+I developed a set of Groovy scripts
+
+- [Test Cases/main/ProcessingVouchers](https://github.com/kazurayam/katalonforum150404bomisef/blob/master/Scripts/main/ProcessingVouchers/Script1729071840553.groovy)
+- [Keywords/bomisef/VouchersWrapper.groovy](https://github.com/kazurayam/katalonforum150404bomisef/blob/master/Keywords/bomisef/VouchersWrapper.groovy)
+
+## Skills used
+
+The "bomisef.VoucherWrapper" class implements a set of state-of-the-art methods that employ the following Java libraries:
+
+- [Jayway JsonPath](https://www.baeldung.com/guide-to-jayway-jsonpath)
+- [Groovy Tuples](https://blog.mrhaki.com/2018/06/groovy-goodness-tuples-with-up-to-9.html)
+- [Jackson ObjectMapper](https://www.baeldung.com/jackson-object-mapper-tutorial)
+- [JUnit4 for Katalon Studio](https://github.com/kazurayam/junit4ks)

@@ -1,10 +1,10 @@
 {
-  "keywordFileContentHash": "2E1397AD2CF091973D3FF01424D90C71",
+  "keywordFileContentHash": "95A14D3F774078714B114FECF5712F1A",
   "keywordClasses": [
     {
       "name": "bomisef.VouchersWrapper",
       "keywordMethods": []
     }
   ],
-  "javadocParsed": true
+  "javadocParsed": false
 }
